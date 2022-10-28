@@ -1,0 +1,10 @@
+{
+    "Quem_sou_eu":{
+                    "nome":"Gabriel Henrique Caetano de Oliveira", 
+                    "idade":20, 
+                    "cidade":"Osvaldo Cruz",
+                    "porque_programar":"Eu sempre gostei de programar, me sinto a vontade quando estou fazendo isso, me sinto bem com a liberdade que tenho com o meu código, e as possibilades de utiliza-lo, aprender coisas novas para mim é fundamental",
+                    "porque_WEB":"Web sempre foi um gosto meu, principalmente pelo front end, podendo visualizar os resultados de forma fácil e gratificante",
+                    "amizades": "Sempre gosto de fazer novas amizades e manter as que ja tenho, sem dificuldades para conversar com as pessoas, seja sobre problemas como coisas boas",
+                    "gosto_pessoal": "Além de programar, também gosto bastante de jogos, como war thunder e Leauge of Legens"}
+    }
